@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajol Bhadra</h1>
-<h3 align="center">A Full-Stack Web Developer (MERN)</h3>
+<h3 align="center">A Full-Stack Web Developer (MERN), EEE Engineer</h3>
 
-### Hi there 👋, My Name is Sajol Bhadra
-#### Full-Stack Web Developer, EEE Engineer
+
 ![Full-Stack Web Developer, EEE Engineer](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/286723555_3282384068754612_7681339853333673974_n.png?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=YqDyCCgq2EkAX_YNyi6&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT89-biWhoQ_w01aqgW_EzhMv1Q3UX398qEtwJUj-BhvEQ&oe=633350C3)
 
 I am a Full-Stack Web Developer (MERN) and an Electrical and Eletronics Engineer.
