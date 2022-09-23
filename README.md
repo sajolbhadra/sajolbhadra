@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sajol Bhadra</h1>
-<h3 align="center">A Full-Stack Web Developer (MERN), EEE Engineer</h3>
+<h3 align="center">A Full-Stack Web Developer (MERN)</h3>
 
-
+### Hi there 👋, My Name is Sajol Bhadra
+#### Full-Stack Web Developer, EEE Engineer
 ![Full-Stack Web Developer, EEE Engineer](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/286723555_3282384068754612_7681339853333673974_n.png?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=YqDyCCgq2EkAX_YNyi6&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT89-biWhoQ_w01aqgW_EzhMv1Q3UX398qEtwJUj-BhvEQ&oe=633350C3)
 
 I am a Full-Stack Web Developer (MERN) and an Electrical and Eletronics Engineer.
 
 Skills: ReactJS / JS / ES6 / HTML / CSS / Bootstrap / TailwindCSS / NodeJS / ExpressJS
 
-- 🌱 I’m currently learning Redux, NodeJS 
-- 📫 How to reach me: sajolbhadra@gmail.com 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sajolbhadra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sajolbhadra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sajolbhadra/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sajol_bhadra/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sajolbhadra13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/user:15140300)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sajolbhadra.netlify.app/)  
-
-
 
 - 🌱 I’m currently learning **Redux**
 
